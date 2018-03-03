@@ -2,8 +2,6 @@
 
 This is the first file in this repo
 
-## Ipsun Below
-lkjasdjflkjfjsajlfskjjfsjf
+## Website Contents
 
-## more ipsum below
-ajfiojsfjsiofjsojfoisjfisjifjd
+1. index.html
